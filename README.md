@@ -47,19 +47,34 @@ One-Stop-CS aims to be the definitive resource hub for Computer Science concepts
 
 ```
 One-Stop-CS/
-├── 📁 algorithms/           # Algorithm implementations and explanations
-├── 📁 data-structures/      # Data structure tutorials and examples
-├── 📁 programming-languages/ # Language-specific resources
-├── 📁 system-design/        # Architecture and design patterns
-├── 📁 databases/           # Database concepts and implementations
-├── 📁 networks/            # Networking fundamentals and protocols
-├── 📁 security/            # Cybersecurity resources
-├── 📁 ai-ml/              # Artificial Intelligence and Machine Learning
-├── 📁 web-development/     # Frontend and backend development
-├── 📁 tools/              # Development tools and environments
-├── 📁 career/             # Career guidance and interview prep
-├── 📁 projects/           # Project ideas and implementations
-└── 📁 community/          # Community contributions and discussions
+├── 📁 Web Development/     # Frontend and backend frameworks
+│   ├── react.md           # React.js comprehensive guide
+│   ├── flask.md           # Flask web framework
+│   ├── fastapi.md         # FastAPI modern Python framework
+│   ├── graphql.md         # GraphQL query language
+│   ├── rest.md            # REST API development
+│   └── cors.md            # Cross-Origin Resource Sharing
+├── 📁 Security/           # Cybersecurity and web security
+│   └── csrf.md            # Cross-Site Request Forgery protection
+├── 📁 Data Science/       # Big data and analytics
+│   ├── spark.md           # Apache Spark processing engine
+│   └── hadoop.md          # Hadoop ecosystem and HDFS
+├── 📁 APIs/               # API development and integration
+│   └── serp-api.md        # Search Engine Results Page APIs
+├── 📁 Automation/         # Workflow and process automation
+│   └── n8n.md             # n8n workflow automation platform
+├── 📁 Machine Learning/   # AI and ML frameworks (coming soon)
+├── 📁 Databases/          # Database systems and concepts (coming soon)
+├── 📁 DevOps/             # Development operations (coming soon)
+├── 📁 Cloud Computing/    # Cloud platforms and services (coming soon)
+├── 📁 algorithms/         # Algorithm implementations (planned)
+├── 📁 data-structures/    # Data structure tutorials (planned)
+├── 📁 programming-languages/ # Language-specific resources (planned)
+├── 📁 system-design/      # Architecture and design patterns (planned)
+├── 📁 networks/           # Networking fundamentals (planned)
+├── 📁 career/             # Career guidance and interview prep (planned)
+├── 📁 projects/           # Project ideas and implementations (planned)
+└── 📁 community/          # Community contributions (planned)
 ```
 
 ## 🚀 Getting Started
@@ -87,6 +102,34 @@ We welcome contributions from everyone! Here's how you can help:
 - **🌍 Translate** - Help make content accessible in different languages
 
 See our [Contributing Guidelines](CONTRIBUTING.md) for detailed information.
+
+## 📋 Roadmap
+
+### Phase 1: Foundation ✅ (Completed)
+- [x] Set up project structure
+- [x] Create core documentation templates
+- [x] Establish contribution guidelines
+- [x] Add initial content for major CS topics
+
+### Phase 2: Content Expansion (In Progress)
+- [x] Web Development guides (React, Flask, FastAPI, GraphQL, REST, CORS)
+- [x] Security guides (CSRF protection)
+- [x] Data Science guides (Apache Spark, Hadoop)
+- [x] API guides (SERP APIs)
+- [x] Automation guides (n8n)
+- [ ] Interactive coding examples
+- [ ] Practice problem sets
+- [ ] Community-driven content curation
+
+### Phase 3: Advanced Features (Planned)
+- [ ] Machine Learning frameworks (TensorFlow, PyTorch)
+- [ ] Database systems (PostgreSQL, MongoDB, Redis)
+- [ ] DevOps tools (Docker, Kubernetes, CI/CD)
+- [ ] Cloud platforms (AWS, Azure, GCP)
+- [ ] Search functionality
+- [ ] Progress tracking
+- [ ] Personalized learning paths
+- [ ] Mobile-friendly interface
 
 ## 📄 License
 
