@@ -69,7 +69,10 @@ One-Stop-CS/
 ├── 📁 Cloud Computing/    # Cloud platforms and services (coming soon)
 ├── 📁 algorithms/         # Algorithm implementations (planned)
 ├── 📁 data-structures/    # Data structure tutorials (planned)
-├── 📁 programming-languages/ # Language-specific resources (planned)
+├── 📁 programming-languages/ # Language-specific resources
+│   ├── python.md          # Python syntax, tooling, best practices
+│   ├── typescript.md      # TypeScript types, tooling, patterns
+│   └── javascript.md      # JavaScript ESNext, tooling, patterns
 ├── 📁 system-design/      # Architecture and design patterns (planned)
 ├── 📁 networks/           # Networking fundamentals (planned)
 ├── 📁 career/             # Career guidance and interview prep (planned)
