@@ -47,37 +47,57 @@ One-Stop-CS aims to be the definitive resource hub for Computer Science concepts
 
 ```
 One-Stop-CS/
-├── 📁 Web Development/     # Frontend and backend frameworks
-│   ├── react.md           # React.js comprehensive guide
-│   ├── flask.md           # Flask web framework
-│   ├── fastapi.md         # FastAPI modern Python framework
-│   ├── graphql.md         # GraphQL query language
-│   ├── rest.md            # REST API development
-│   └── cors.md            # Cross-Origin Resource Sharing
-├── 📁 Security/           # Cybersecurity and web security
-│   └── csrf.md            # Cross-Site Request Forgery protection
-├── 📁 Data Science/       # Big data and analytics
-│   ├── spark.md           # Apache Spark processing engine
-│   └── hadoop.md          # Hadoop ecosystem and HDFS
-├── 📁 APIs/               # API development and integration
-│   └── serp-api.md        # Search Engine Results Page APIs
-├── 📁 Automation/         # Workflow and process automation
-│   └── n8n.md             # n8n workflow automation platform
-├── 📁 Machine Learning/   # AI and ML frameworks (coming soon)
-├── 📁 Databases/          # Database systems and concepts (coming soon)
-├── 📁 DevOps/             # Development operations (coming soon)
-├── 📁 Cloud Computing/    # Cloud platforms and services (coming soon)
-├── 📁 algorithms/         # Algorithm implementations (planned)
-├── 📁 data-structures/    # Data structure tutorials (planned)
-├── 📁 programming-languages/ # Language-specific resources
-│   ├── python.md          # Python syntax, tooling, best practices
-│   ├── typescript.md      # TypeScript types, tooling, patterns
-│   └── javascript.md      # JavaScript ESNext, tooling, patterns
-├── 📁 system-design/      # Architecture and design patterns (planned)
-├── 📁 networks/           # Networking fundamentals (planned)
-├── 📁 career/             # Career guidance and interview prep (planned)
-├── 📁 projects/           # Project ideas and implementations (planned)
-└── 📁 community/          # Community contributions (planned)
+├── 📁 Web Development/        # Frontend and backend frameworks
+│   ├── react.md              # React.js comprehensive guide
+│   ├── nextjs.md             # Next.js React framework
+│   ├── nodejs.md             # Node.js runtime
+│   ├── express.md             # Express.js web framework
+│   ├── django.md              # Django Python framework
+│   ├── flask.md               # Flask web framework
+│   ├── fastapi.md             # FastAPI modern Python framework
+│   ├── graphql.md             # GraphQL query language
+│   ├── rest.md                # REST API development
+│   └── cors.md                # Cross-Origin Resource Sharing
+├── 📁 Programming Languages/  # Language-specific resources
+│   ├── python.md             # Python syntax, tooling, best practices
+│   ├── typescript.md         # TypeScript types, tooling, patterns
+│   └── javascript.md         # JavaScript ESNext, tooling, patterns
+├── 📁 Databases/             # Database systems and concepts
+│   ├── sql.md                # SQL databases (PostgreSQL, MySQL, SQLite)
+│   ├── nosql.md              # NoSQL databases (MongoDB, Redis, DynamoDB)
+│   ├── graph-databases.md    # Graph databases (Neo4j, Amazon Neptune)
+│   ├── vector-databases.md   # Vector databases (Pinecone, Weaviate, Qdrant)
+│   ├── qdrant.md             # Qdrant vector database
+│   ├── hashmap-database.md   # Key-value stores (Redis, Memcached)
+│   └── sharding.md           # Database sharding strategies
+├── 📁 DevOps/                # Development operations and infrastructure
+│   ├── docker.md             # Docker containerization
+│   ├── kubernetes.md         # Kubernetes orchestration
+│   ├── terraform.md          # Infrastructure as Code
+│   ├── prometheus.md         # Monitoring and alerting
+│   └── grafana.md            # Visualization and dashboards
+├── 📁 Cloud Computing/       # Cloud platforms and services
+│   └── s3.md                 # Amazon S3 object storage
+├── 📁 Machine Learning/      # AI and ML frameworks
+│   └── pollination-ai.md     # Pollination.ai design platform
+├── 📁 System Design/         # Architecture and design patterns
+│   └── reverse-proxy.md      # Load balancing and reverse proxies
+├── 📁 Data Science/          # Big data and analytics
+│   ├── spark.md              # Apache Spark processing engine
+│   └── hadoop.md             # Hadoop ecosystem and HDFS
+├── 📁 APIs/                  # API development and integration
+│   ├── serp-api.md           # Search Engine Results Page APIs
+│   └── mcp.md                # Model Context Protocol
+├── 📁 Automation/            # Workflow and process automation
+│   └── n8n.md                # n8n workflow automation platform
+├── 📁 Security/              # Cybersecurity and web security
+│   └── csrf.md               # Cross-Site Request Forgery protection
+├── 📁 Algorithms/            # Algorithm implementations (planned)
+├── 📁 Data-Structures/       # Data structure tutorials (planned)
+├── 📁 Computer-Networks/     # Networking fundamentals (planned)
+├── 📁 Operating-Systems/     # OS concepts and internals (planned)
+├── 📁 Computer-Architecture/ # Hardware and system design (planned)
+└── 📁 Career/                # Career guidance and interview prep (planned)
 ```
 
 ## 🚀 Getting Started
